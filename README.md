@@ -1,4 +1,15 @@
-Abstract
+# Food Happens in Vegas: How can restaurants improve their Yelp profiles for success?
+
+
+
+## Vegas Foodies: 
+- Elizabeth Combs
+- Anu-Ujin Gerelt-Od
+- Wendy Hou
+- Emmy Phung
+
+
+## Abstract
 
 The purpose of this data mining project is to examine how restaurants can improve their Yelp
 profile to become more “successful” on Yelp in Las Vegas, Nevada. Differently from the traditional
